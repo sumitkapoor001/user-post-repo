@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.spf.user.model.User;
 import com.spf.user.service.UserDaoService;
-
+//This is controller class
 @RestController
 public class UserController {
 	
